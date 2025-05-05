@@ -4,7 +4,7 @@
     "name": "Klasik Tost",
     "description": "Ekşi mayalı ekmek, eski kaşar, taze kaşar ve bir tutam hardal. Altın rengi mükemmellik.",
     "price": 85.5,
-    "image": "./menu/images/TestToasts.png",
+    "image": "./menu/images/default.png",
     "tags": ["Vejetaryen"]
   },
   {
@@ -12,7 +12,7 @@
     "name": "Avokado Tost",
     "description": "Tam buğday ekmeği, avokado, cherry domates, beyaz peynir ve zeytinyağı.",
     "price": 97.5,
-    "image": "./menu/images/TestToasts.png",
+    "image": "./menu/images/default.png",
     "tags": ["Vejetaryen", "Tam buğdaylı"]
   },
   {
@@ -20,7 +20,7 @@
     "name": "Acılı Sucuklu",
     "description": "Rustik ekmek, acılı sucuk, kaşar peyniri, közlenmiş biber ve sarımsaklı mayonez.",
     "price": 105.0,
-    "image": "./menu/images/TestToasts.png",
+    "image": "./menu/images/default.png",
     "tags": ["Acılı", "Spesiyal"]
   },
   {
@@ -28,7 +28,7 @@
     "name": "Meyveli Tost",
     "description": "Brioche ekmeği, lor peyniri, karışık meyve, bal gezdirme ve antep fıstığı.",
     "price": 82.5,
-    "image": "./menu/images/TestToasts.png",
+    "image": "./menu/images/default.png",
     "tags": ["Vejetaryen"]
   },
   {
@@ -36,7 +36,7 @@
     "name": "Akdeniz Tostu",
     "description": "Zeytinli ekmek, humus, közlenmiş patlıcan, siyah zeytin ve cacık.",
     "price": 92.5,
-    "image": "./menu/images/TestToasts.png",
+    "image": "./menu/images/default.png",
     "tags": ["Vejetaryen", "Hafif"]
   },
   {

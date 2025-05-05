@@ -44,7 +44,7 @@
     "name": "Mantarlı Trüflü",
     "description": "Sanatkar ekmeği, kültür mantarı, trüf yağı, parmesan ve taze kekik.",
     "price": 117.5,
-    "image": "./menu/images/TestToasts.pngg",
+    "image": "./menu/images/TestToasts.png",
     "tags": ["Vejetaryen", "Spesiyal"]
   }
 ]
